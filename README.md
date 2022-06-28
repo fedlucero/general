@@ -1,2 +1,2 @@
 # general
-**https://fedlucero.github.io/general/sakura nite**
+**https://fedlucero.github.io/general/sakura_nite**
